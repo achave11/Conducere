@@ -5,6 +5,7 @@
 
 import sys
 import importlib
+import time
 
 # prints out how to use this script
 def usage():
