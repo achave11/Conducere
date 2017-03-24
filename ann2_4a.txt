@@ -1,0 +1,43 @@
+Starting the artificial neural network
+Attempting feature set: ['danceability', 'energy', 'liveness', 'instrumentalness', 'acousticness']
+Training the classifier...
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -2.72, time = 0.01s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -2.55, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -2.47, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -2.42, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -2.41, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -2.42, time = 0.02s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -2.43, time = 0.02s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -2.40, time = 0.02s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -2.40, time = 0.02s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -2.38, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -2.40, time = 0.02s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -2.39, time = 0.02s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -2.39, time = 0.02s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -2.40, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -2.38, time = 0.02s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -2.39, time = 0.02s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -2.40, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -2.40, time = 0.02s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -2.40, time = 0.02s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -2.40, time = 0.02s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -2.39, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -2.38, time = 0.02s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -2.40, time = 0.02s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -2.38, time = 0.02s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -2.40, time = 0.02s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -2.41, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -2.42, time = 0.02s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -2.42, time = 0.02s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -2.40, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -2.43, time = 0.02s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -2.41, time = 0.02s
+Accuracy:			33 correct gives 0.235714285714 compared to guessing 0.142857142857
+Best feature set:		['danceability', 'energy', 'liveness', 'instrumentalness', 'acousticness']
+Identified 6 out of 7 labels
+	 hunter5474 		 4	 of 20 	 (0.200000)
+	 jungleprince 		 14	 of 27 	 (0.518519)
+	 sana 		 6	 of 13 	 (0.461538)
+	 mlhopp 		 1	 of 20 	 (0.050000)
+	 1246241522 		 7	 of 17 	 (0.411765)
+	 connor 		 1	 of 18 	 (0.055556)
