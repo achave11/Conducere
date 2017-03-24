@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/node/njtest" libraries="{Conducere/node/njtest/node_modules}" />
+    <file url="file://$PROJECT_DIR$/node/njtest/authorization_code" libraries="{Conducere/node/njtest/authorization_code/node_modules}" />
     <file url="file://$PROJECT_DIR$/node/web-api-auth-examples" libraries="{Conducere/node/web-api-auth-examples/node_modules}" />
   </component>
 </project>
